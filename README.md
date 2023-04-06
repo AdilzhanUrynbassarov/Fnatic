@@ -25,3 +25,4 @@ Back-End: JSP, Jakarta Servlet, JDBC.  Spring.
 
 **Back-End Development:** Urynbassarov Adilzhan.
 
+....
